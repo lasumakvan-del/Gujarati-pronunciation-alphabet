@@ -6,7 +6,7 @@
 <meta property="og:description" content="અંગ્રેજી આલ્ફાબેટને ગુજરાતી ઉચ્ચારણ સાથે શીખો." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://lasumakvan-dl.github.io/gujarati-alphabet/" />
-<meta property="og:image" content="https://USERNAME.github.io/gujarati-alphabet/assets/thumbnail.png" />
+<meta property="og:image" content="https://lasumakvan-dl.github.io/gujarati-alphabet/assets/thumbnail.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 
