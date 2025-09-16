@@ -2,7 +2,19 @@
 અંગ્રેજી આલ્ફાબેટ ના ગુજરાતી ઉચ્ચારણ
 <!DOCTYPE html>
 <html lang="gu">
-<head>
+<head> <meta property="og:title" content="રંગીન અક્ષરમાળા — અંગ્રેજી-ગુજરાતી" />
+<meta property="og:description" content="અંગ્રેજી આલ્ફાબેટને ગુજરાતી ઉચ્ચારણ સાથે શીખો." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://USERNAME.github.io/gujarati-alphabet/" />
+<meta property="og:image" content="https://USERNAME.github.io/gujarati-alphabet/assets/thumbnail.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="રંગીન અક્ષરમાળા" />
+<meta name="twitter:description" content="અંગ્રેજી આલ્ફાબેટને ગુજરાતી ઉચ્ચારણ સાથે શીખો." />
+<meta name="twitter:image" content="https://USERNAME.github.io/gujarati-alphabet/assets/thumbnail.png" />
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ઇંગ્લીશ આલ્ફાબેટ ના ગુજરાતી ઉચ્ચારણ</title>
